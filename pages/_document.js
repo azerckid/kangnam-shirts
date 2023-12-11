@@ -13,7 +13,7 @@ export default function Document() {
           name="keywords"
           content="강남 셔츠 퍼블릭 강남셔츠룸 강남란제리"
         />
-        <meta name="author" content="송대표" />
+        <meta name="author" content="강남 퍼블릭 셔츠 셔츠룸 송대표" />
         <meta
           property="og:title"
           content="강남 셔츠 퍼블릭 강남셔츠룸 강남란제리"
@@ -40,6 +40,7 @@ export default function Document() {
           name="twitter:image"
           content="https://pbs.twimg.com/media/F-TRhUJbkAA4pxf?format=png&name=900x900"
         />
+        <link rel="canonical" href="https://kangnam.site" />
         <link
           rel="stylesheet"
           as="style"
