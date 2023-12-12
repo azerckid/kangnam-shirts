@@ -40,14 +40,15 @@ const Introduction = styled.div`
     }
   }
   p {
-    padding: 0 6rem;
+    padding: 0 1rem;
     line-height: 1.5;
     font-size: 1rem;
     font-weight: 300;
     margin-bottom: 1rem;
     color: #999;
     @media screen and (min-width: 768px) {
-      font-size: 1rem;
+      padding: 0 6rem;
+      font-size: 1.1rem;
     }
   }
 `;
@@ -147,7 +148,7 @@ export default function Home() {
           </GridUnit>
         </GridWrapper>
         <Introduction>
-          <h1>강남셔츠룸 혼자서하는 편안한 술자리</h1>
+          <h1>강남셔츠룸 혼자서 편안한 술자리</h1>
           <p>
             다른 종류에 룸과 달리 술과 함께 편안하게 즐길 수 있는 곳입니다.
             특히, 혼자 방문하셔도 오픈 마인드인 매니저와 함께 단둘이 술자리를

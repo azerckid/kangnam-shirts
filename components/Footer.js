@@ -65,7 +65,7 @@ export default function Footer() {
         <Wraper>
           <FooterWrapper>
             <Title>고객센터</Title>
-            <div>( 10:00 ~ 07:00 연중무휴)</div>
+            <div>( 00:00 ~ 00:00 연중무휴)</div>
             <div>Copyright © 강남셔츠룸 All Right Reserved.</div>
           </FooterWrapper>
         </Wraper>
