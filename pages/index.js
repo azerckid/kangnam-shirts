@@ -3,12 +3,27 @@ import Footer from "@/components/Footer";
 import GridUnit from "@/components/GridUnit";
 import GridWrapper from "@/components/GridWrapper";
 import Header from "@/components/Header";
+import Link from "next/link";
 import styled from "styled-components";
+
+import { FaXTwitter } from "react-icons/fa6";
 
 const Background = styled.div`
   background-color: #000;
   padding: 1rem;
   color: #fff;
+`;
+const TwitterLink = styled(Link)`
+  color: #1da1f2; // Twitter's brand color
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 300;
+  margin-top: 1rem;
+  display: inline-flex; // To align icon and text
+  align-items: center; // Center align icon and text
+  @media screen and (min-width: 768px) {
+    font-size: 1rem;
+  }
 `;
 const Title = styled.h1`
   margin-top: 1rem;
@@ -35,6 +50,14 @@ export default function Home() {
     <div>
       <Header />
       <Center>
+        <TwitterLink
+          href="https://twitter.com/azerckid"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaXTwitter />
+          <span style={{ marginLeft: "0.5rem" }}>Follow us on Twitter</span>
+        </TwitterLink>
         <GridWrapper>
           <GridUnit>
             <img
