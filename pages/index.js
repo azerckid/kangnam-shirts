@@ -101,7 +101,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702306211220.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 하련</Title>
             <Description>귀염상 술또라이 사카가능</Description>
@@ -109,7 +109,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308728829.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 효린</Title>
             <Description>실장님 새끼 룸뜨억 가능</Description>
@@ -117,7 +117,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308713351.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 유솜</Title>
             <Description>말을 잘하고 손님을 잘 다룸</Description>
@@ -125,7 +125,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308704371.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 소백</Title>
             <Description>현현새 나이많음 하녀마인드</Description>
@@ -133,7 +133,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308695026.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 엠초</Title>
             <Description>쓰입마인드 노노팬티라는 소문 케바케</Description>
@@ -141,7 +141,7 @@ export default function Home() {
           <GridUnit>
             <img
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308685748.png"
-              alt="title"
+              alt="강남 셔츠룸 송대표"
             />
             <Title>강남셔츠 연수</Title>
             <Description>손님어리거나 잘생기면 물빨 골뱅이</Description>
