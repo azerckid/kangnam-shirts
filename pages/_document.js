@@ -48,6 +48,10 @@ export default function Document() {
           as="style"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css"
         />
+        <meta
+          name="google-site-verification"
+          content="BclBCHF_qgLsQ8l6uFlbTweC_SRhcImw_geSkw8HSpM"
+        />
         <title>강남셔츠룸 강남란제리 송대표</title>
       </Head>
       <body>
