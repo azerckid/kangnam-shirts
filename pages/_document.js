@@ -40,7 +40,7 @@ export default function Document() {
           name="twitter:image"
           content="https://pbs.twimg.com/media/F-TRhUJbkAA4pxf?format=png&name=900x900"
         />
-        <link rel="canonical" href="https://kangnam.site" />
+        {/* <link rel="canonical" href="https://kangnam.site" /> */}
         <link
           rel="stylesheet"
           as="style"

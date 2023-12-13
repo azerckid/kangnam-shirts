@@ -94,7 +94,17 @@ export default function Home() {
             셔츠룸은 일종의 룸 서비스로, 가라오케나 룸처럼 노래나 게임을 즐기는
             시스템과는 다릅니다. 대신 고급스런 인테리어와 함께 퀄리티 높은
             매니저가 함께 해드리며, 테이블에서 간단한 호구조사와 함께 술 한
-            잔하며 즐길 수 있는 곳입니다.
+            잔하며 즐길 수 있는 곳입니다. 강남의 셔츠룸 시스템은 전국적으로
+            전파되어 제주도에서도 강남셔츠룸이 인기가 있습니다 기존의 퍼블릭
+            룸싸롱이나 가라오케 시스템과는 다른 좀더 적극적인 매니저들의 복장과
+            마인드가 장점인 룸싸롱 입니다 매니저들의 옷차림은 홀복이 아닌 셔츠를
+            입어서 강남 셔츠룸이라고 불리 웁니다. 매니저와 전화번호를 주고 받고
+            사적으로 연락을 하며 애인사이가 되어 연애를 하시길 바랍니다. 강남
+            셔츠룸은 일종의 룸 서비스로, 가라오케나 룸처럼 노래나 게임을 즐기는
+            시스템과는 다릅니다. 대신 고급스런 인테리어와 함께 퀄리티 높은
+            매니저가 함께 해드리며, 테이블에서 간단한 호구조사와 함께 술 한
+            잔하며 즐길 수 있는 곳입니다. 강남 셔츠룸의 매니져들을 아래 그림으로
+            대략 소개드립니다.
           </p>
         </Introduction>
         <GridWrapper>
@@ -103,7 +113,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702306211220.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 하련</Title>
+            <Title>강남셔츠룸 강남 란제리 하련</Title>
             <Description>귀염상 술또라이 사카가능</Description>
           </GridUnit>
           <GridUnit>
@@ -111,7 +121,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308728829.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 효린</Title>
+            <Title>강남셔츠룸 강남 란제리 효린</Title>
             <Description>실장님 새끼 룸뜨억 가능</Description>
           </GridUnit>
           <GridUnit>
@@ -119,7 +129,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308713351.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 유솜</Title>
+            <Title>강남셔츠룸 강남 란제리 유솜</Title>
             <Description>말을 잘하고 손님을 잘 다룸</Description>
           </GridUnit>
           <GridUnit>
@@ -127,7 +137,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308704371.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 소백</Title>
+            <Title>강남셔츠룸 강남 란제리 소백</Title>
             <Description>현현새 나이많음 하녀마인드</Description>
           </GridUnit>
           <GridUnit>
@@ -135,7 +145,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308695026.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 엠초</Title>
+            <Title>강남셔츠룸 강남 란제리 엠초</Title>
             <Description>쓰입마인드 노노팬티라는 소문 케바케</Description>
           </GridUnit>
           <GridUnit>
@@ -143,7 +153,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308685748.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠 연수</Title>
+            <Title>강남셔츠룸 강남 란제리 연수</Title>
             <Description>손님어리거나 잘생기면 물빨 골뱅이</Description>
           </GridUnit>
         </GridWrapper>
