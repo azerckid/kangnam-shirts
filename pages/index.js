@@ -7,6 +7,7 @@ import Link from "next/link";
 import styled from "styled-components";
 
 import { FaXTwitter } from "react-icons/fa6";
+import Head from "next/head";
 
 const Background = styled.div`
   background-color: #000;
@@ -77,6 +78,9 @@ export default function Home() {
   return (
     <div>
       <Header />
+      <Head>
+        <title>강남셔츠룸 강남란제리 송대표</title>
+      </Head>
       <Center>
         <TwitterLink
           href="https://twitter.com/azerckid"
@@ -113,7 +117,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702306211220.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 하련</Title>
+            <Title>강남셔츠룸 강남 란제리 하리앤</Title>
             <Description>귀염상 술또라이 사카가능</Description>
           </GridUnit>
           <GridUnit>
@@ -121,7 +125,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308728829.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 효린</Title>
+            <Title>강남셔츠룸 강남 란제리 효리인</Title>
             <Description>실장님 새끼 룸뜨억 가능</Description>
           </GridUnit>
           <GridUnit>
@@ -129,7 +133,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308713351.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 유솜</Title>
+            <Title>강남셔츠룸 강남 란제리 유소미</Title>
             <Description>말을 잘하고 손님을 잘 다룸</Description>
           </GridUnit>
           <GridUnit>
@@ -137,7 +141,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308704371.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 소백</Title>
+            <Title>강남셔츠룸 강남 란제리 소배기</Title>
             <Description>현현새 나이많음 하녀마인드</Description>
           </GridUnit>
           <GridUnit>
@@ -145,7 +149,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308695026.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 엠초</Title>
+            <Title>강남셔츠룸 강남 란제리 엔초초</Title>
             <Description>쓰입마인드 노노팬티라는 소문 케바케</Description>
           </GridUnit>
           <GridUnit>
@@ -153,7 +157,7 @@ export default function Home() {
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308685748.png"
               alt="강남 셔츠룸 송대표"
             />
-            <Title>강남셔츠룸 강남 란제리 연수</Title>
+            <Title>강남셔츠룸 강남 란제리 현수</Title>
             <Description>손님어리거나 잘생기면 물빨 골뱅이</Description>
           </GridUnit>
         </GridWrapper>
