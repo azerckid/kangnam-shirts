@@ -8,6 +8,7 @@ import styled from "styled-components";
 
 import { FaXTwitter } from "react-icons/fa6";
 import Head from "next/head";
+import Image from "next/image";
 
 const Background = styled.div`
   background-color: #000;
@@ -95,12 +96,12 @@ export default function Home() {
         <Introduction>
           <h1>Introducing ChoonsimCoin</h1>
           <p>
-            A groundbreaking meme coin tailored for the adult entertainment industry. ChoonsimCoin empowers creators and users with secure, anonymous, and efficient transactions. Whether you're supporting your favorite creators or accessing premium content, ChoonsimCoin delivers unparalleled convenience while embracing the fun and bold spirit of meme culture.
+            A groundbreaking meme coin tailored for the adult entertainment industry. ChoonsimCoin empowers creators and users with secure, anonymous, and efficient transactions. Whether youre supporting your favorite creators or accessing premium content, ChoonsimCoin delivers unparalleled convenience while embracing the fun and bold spirit of meme culture.
           </p>
         </Introduction>
         <GridWrapper>
           <GridUnit>
-            <img
+            <Image
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702306211220.png"
               alt="강남 셔츠룸 송대표"
             />
@@ -108,7 +109,7 @@ export default function Home() {
             <Description>Enjoy discreet transactions with full confidence.</Description>
           </GridUnit>
           <GridUnit>
-            <img
+            <Image
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308728829.png"
               alt="강남 셔츠룸 송대표"
             />
@@ -116,7 +117,7 @@ export default function Home() {
             <Description>Easily integrate ChoonsimCoin into your favorite platforms.</Description>
           </GridUnit>
           <GridUnit>
-            <img
+            <Image
               src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308713351.png"
               alt="강남 셔츠룸 송대표"
             />
@@ -128,7 +129,7 @@ export default function Home() {
         <Introduction>
           <h1>ChoonsimCoin</h1>
           <p>
-            Join the revolution where entertainment meets innovation, all powered by the world of cryptocurrency. ChoonsimCoin is the future of adult entertainment, and it's here to stay.
+            Join the revolution where entertainment meets innovation, all powered by the world of cryptocurrency. ChoonsimCoin is the future of adult entertainment, and its here to stay.
           </p>
         </Introduction>
       </Center>
