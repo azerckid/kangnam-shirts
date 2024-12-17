@@ -102,7 +102,9 @@ export default function Home() {
         <GridWrapper>
           <GridUnit>
             <Image
-              src="/images/1702308728829.png"
+              src="/images/00000-3883125886.png"
+              width={300}
+              height={300}
               alt="choonsimcoin"
             />
             <Title>Privacy First</Title>
@@ -111,6 +113,8 @@ export default function Home() {
           <GridUnit>
             <Image
               src="/images/00439-3832481124.png"
+              width={300}
+              height={300}
               alt="choonsimcoin"
             />
             <Title>Seamless Access</Title>
@@ -119,6 +123,8 @@ export default function Home() {
           <GridUnit>
             <Image
               src="/images/01073-3022299074.png"
+              width={300}
+              height={300}
               alt="choonsimcoin"
             />
             <Title>Empowering Creators</Title>
