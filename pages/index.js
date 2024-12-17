@@ -102,24 +102,24 @@ export default function Home() {
         <GridWrapper>
           <GridUnit>
             <Image
-              src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702306211220.png"
-              alt="강남 셔츠룸 송대표"
+              src="/images/1702308728829.png"
+              alt="choonsimcoin"
             />
             <Title>Privacy First</Title>
             <Description>Enjoy discreet transactions with full confidence.</Description>
           </GridUnit>
           <GridUnit>
             <Image
-              src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308728829.png"
-              alt="강남 셔츠룸 송대표"
+              src="/images/00439-3832481124.png"
+              alt="choonsimcoin"
             />
             <Title>Seamless Access</Title>
             <Description>Easily integrate ChoonsimCoin into your favorite platforms.</Description>
           </GridUnit>
           <GridUnit>
             <Image
-              src="https://mobic-market.s3.ap-northeast-2.amazonaws.com/1702308713351.png"
-              alt="강남 셔츠룸 송대표"
+              src="/images/01073-3022299074.png"
+              alt="choonsimcoin"
             />
             <Title>Empowering Creators</Title>
             <Description> A new way for content creators to monetize and connect with their audience.</Description>
