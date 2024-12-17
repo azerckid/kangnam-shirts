@@ -64,9 +64,8 @@ export default function Footer() {
       <Center>
         <Wraper>
           <FooterWrapper>
-            <Title>고객센터</Title>
-            <div>( 00:00 ~ 00:00 연중무휴)</div>
-            <div>Copyright © 강남셔츠룸 All Right Reserved.</div>
+            <Title>ChoonSimCoin</Title>
+            <div>Copyright © choonsimcoin All Right Reserved.</div>
           </FooterWrapper>
         </Wraper>
       </Center>

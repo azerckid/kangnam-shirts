@@ -26,7 +26,7 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wraper>
-          <Logo> 강남 셔츠룸 송대표 </Logo>
+          <Logo>ChoonSimCoin</Logo>
         </Wraper>
       </Center>
     </StyledHeader>
